@@ -1,0 +1,53 @@
+body {
+    background-color: #609af0;
+   background: linear-gradient(to right, #5c98f2, rgb(202, 202, 202), #1b5fc4);
+
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+    padding: 40px;
+    margin-top: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 1000px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+   
+}
+
+.form-label {
+    font-weight: bold;
+    
+}
+
+.btn-container {
+    margin-top: 20px;
+}
+
+.form-note {
+    font-size: 14px;
+    margin-top: 20px;
+    color: #777;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+fieldset {
+    border: 1px solid #dddddd;
+    margin: 10px 0;
+    padding: 10px;
+}
